@@ -4,7 +4,7 @@
 
 ## Try it Live!
 
-Check out the live app [Elzero Dashboard Template]()
+Check out the live app [Elzero Dashboard Template](https://elzero-dashboard-template.vercel.app/)
 
 ## Tools Used
 
@@ -16,7 +16,7 @@ Check out the live app [Elzero Dashboard Template]()
 1. Clone this repository.
 
     ```bash
-    git clone
+    git clone https://github.com/mahmoud-mohsen-dev/elzero-dashboard-template.git
     ```
 
 2. Navigate to the Project Directory:
